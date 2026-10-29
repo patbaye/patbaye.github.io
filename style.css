@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  background: lightblue;
+  background: rgb(13, 171, 224);
   color: #222;
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
@@ -40,7 +40,7 @@ h2 {
   font-weight: 900;
   letter-spacing: -0.04em;
   text-transform: uppercase;
-  color: blue;
+  color: rgba(255, 255, 255, 0.966);
 }
 
 .content > p {
